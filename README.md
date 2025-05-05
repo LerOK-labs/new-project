@@ -1,5 +1,12 @@
 # new-project
 
+## Purpose
+
+This repository serves as a starting point for setting up a Git-based development workflow.  
+It includes instructions to initialize a Git repository, create a development branch, and use Smart Commits with Jira.
+
+---
+
 ## How to create the repository yourself
 
 1. Create a directory named `new-project`
